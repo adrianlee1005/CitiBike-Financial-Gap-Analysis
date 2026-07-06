@@ -7,7 +7,7 @@
 
 ## Project Overview
 
-This project analyzes where CitiBike expansion would create the highest mobility, equity, and financial value across New York City. The core question is not simply **“where is CitiBike missing?”** but rather:
+This project analyzes where CitiBike expansion would create the highest mobility, equity, and financial value across New York City. The core question to answer is: 
 
 > **Which underserved neighborhoods have the strongest latent demand for bike share, and can expansion into those areas be financially justified?**
 
