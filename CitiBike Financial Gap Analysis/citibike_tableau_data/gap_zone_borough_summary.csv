@@ -1,0 +1,6 @@
+borough,total_tracts,gap_tracts,total_population,gap_population,pct_pop_in_gap,gap_no_vehicle_pct,gap_transit_pct
+Staten Island,122,122,492925.0,492925.0,100.0,16.7,25.1
+Queens,689,455,2360826.0,1526931.0,64.7,24.7,36.5
+Brooklyn,779,380,2679620.0,1195051.0,44.6,41.6,44.8
+Bronx,348,163,1443229.0,591598.0,41.0,42.8,45.4
+Manhattan,304,7,1645867.0,28105.0,1.7,76.7,42.4

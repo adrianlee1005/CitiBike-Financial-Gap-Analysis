@@ -1,0 +1,166 @@
+nta_name,borough,expansion_rank,year,net_cashflow,cumulative_pl
+Parkchester,Bronx,1,0,-150000.0,-150000.0
+Parkchester,Bronx,1,1,39065.0,-110935.0
+Parkchester,Bronx,1,2,98364.0,-12571.0
+Parkchester,Bronx,1,3,157662.0,145091.0
+Parkchester,Bronx,1,4,157662.0,302753.0
+Parkchester,Bronx,1,5,157662.0,460416.0
+Parkchester,Bronx,1,6,157662.0,618078.0
+Parkchester,Bronx,1,7,157662.0,775740.0
+Parkchester,Bronx,1,8,157662.0,933403.0
+Parkchester,Bronx,1,9,157662.0,1091065.0
+Parkchester,Bronx,1,10,157662.0,1248727.0
+Brownsville,Brooklyn,2,0,-300000.0,-300000.0
+Brownsville,Brooklyn,2,1,72346.0,-227654.0
+Brownsville,Brooklyn,2,2,186605.0,-41049.0
+Brownsville,Brooklyn,2,3,300864.0,259815.0
+Brownsville,Brooklyn,2,4,300864.0,560680.0
+Brownsville,Brooklyn,2,5,300864.0,861544.0
+Brownsville,Brooklyn,2,6,300864.0,1162408.0
+Brownsville,Brooklyn,2,7,300864.0,1463273.0
+Brownsville,Brooklyn,2,8,300864.0,1764137.0
+Brownsville,Brooklyn,2,9,300864.0,2065001.0
+Brownsville,Brooklyn,2,10,300864.0,2365866.0
+East Flatbush-Remsen Village,Brooklyn,3,0,-150000.0,-150000.0
+East Flatbush-Remsen Village,Brooklyn,3,1,33127.0,-116873.0
+East Flatbush-Remsen Village,Brooklyn,3,2,87972.0,-28901.0
+East Flatbush-Remsen Village,Brooklyn,3,3,142817.0,113917.0
+East Flatbush-Remsen Village,Brooklyn,3,4,142817.0,256734.0
+East Flatbush-Remsen Village,Brooklyn,3,5,142817.0,399552.0
+East Flatbush-Remsen Village,Brooklyn,3,6,142817.0,542369.0
+East Flatbush-Remsen Village,Brooklyn,3,7,142817.0,685186.0
+East Flatbush-Remsen Village,Brooklyn,3,8,142817.0,828004.0
+East Flatbush-Remsen Village,Brooklyn,3,9,142817.0,970821.0
+East Flatbush-Remsen Village,Brooklyn,3,10,142817.0,1113639.0
+Soundview-Bruckner-Bronx River,Bronx,4,0,-300000.0,-300000.0
+Soundview-Bruckner-Bronx River,Bronx,4,1,64377.0,-235623.0
+Soundview-Bruckner-Bronx River,Bronx,4,2,172660.0,-62963.0
+Soundview-Bruckner-Bronx River,Bronx,4,3,280943.0,217980.0
+Soundview-Bruckner-Bronx River,Bronx,4,4,280943.0,498923.0
+Soundview-Bruckner-Bronx River,Bronx,4,5,280943.0,779866.0
+Soundview-Bruckner-Bronx River,Bronx,4,6,280943.0,1060809.0
+Soundview-Bruckner-Bronx River,Bronx,4,7,280943.0,1341753.0
+Soundview-Bruckner-Bronx River,Bronx,4,8,280943.0,1622696.0
+Soundview-Bruckner-Bronx River,Bronx,4,9,280943.0,1903639.0
+Soundview-Bruckner-Bronx River,Bronx,4,10,280943.0,2184582.0
+Allerton,Bronx,5,0,-150000.0,-150000.0
+Allerton,Bronx,5,1,31337.0,-118663.0
+Allerton,Bronx,5,2,84840.0,-33822.0
+Allerton,Bronx,5,3,138344.0,104521.0
+Allerton,Bronx,5,4,138344.0,242865.0
+Allerton,Bronx,5,5,138344.0,381208.0
+Allerton,Bronx,5,6,138344.0,519552.0
+Allerton,Bronx,5,7,138344.0,657895.0
+Allerton,Bronx,5,8,138344.0,796239.0
+Allerton,Bronx,5,9,138344.0,934582.0
+Allerton,Bronx,5,10,138344.0,1072926.0
+Cypress Hills,Brooklyn,6,0,-225000.0,-225000.0
+Cypress Hills,Brooklyn,6,1,46260.0,-178740.0
+Cypress Hills,Brooklyn,6,2,125955.0,-52785.0
+Cypress Hills,Brooklyn,6,3,205650.0,152865.0
+Cypress Hills,Brooklyn,6,4,205650.0,358515.0
+Cypress Hills,Brooklyn,6,5,205650.0,564165.0
+Cypress Hills,Brooklyn,6,6,205650.0,769815.0
+Cypress Hills,Brooklyn,6,7,205650.0,975465.0
+Cypress Hills,Brooklyn,6,8,205650.0,1181115.0
+Cypress Hills,Brooklyn,6,9,205650.0,1386765.0
+Cypress Hills,Brooklyn,6,10,205650.0,1592415.0
+East New York-City Line,Brooklyn,7,0,-300000.0,-300000.0
+East New York-City Line,Brooklyn,7,1,60737.0,-239263.0
+East New York-City Line,Brooklyn,7,2,166289.0,-72975.0
+East New York-City Line,Brooklyn,7,3,271841.0,198867.0
+East New York-City Line,Brooklyn,7,4,271841.0,470708.0
+East New York-City Line,Brooklyn,7,5,271841.0,742549.0
+East New York-City Line,Brooklyn,7,6,271841.0,1014390.0
+East New York-City Line,Brooklyn,7,7,271841.0,1286232.0
+East New York-City Line,Brooklyn,7,8,271841.0,1558073.0
+East New York-City Line,Brooklyn,7,9,271841.0,1829914.0
+East New York-City Line,Brooklyn,7,10,271841.0,2101755.0
+Jamaica,Queens,8,0,-450000.0,-450000.0
+Jamaica,Queens,8,1,85121.0,-364879.0
+Jamaica,Queens,8,2,238961.0,-125918.0
+Jamaica,Queens,8,3,392802.0,266883.0
+Jamaica,Queens,8,4,392802.0,659685.0
+Jamaica,Queens,8,5,392802.0,1052487.0
+Jamaica,Queens,8,6,392802.0,1445288.0
+Jamaica,Queens,8,7,392802.0,1838090.0
+Jamaica,Queens,8,8,392802.0,2230892.0
+Jamaica,Queens,8,9,392802.0,2623693.0
+Jamaica,Queens,8,10,392802.0,3016495.0
+East New York-New Lots,Brooklyn,9,0,-450000.0,-450000.0
+East New York-New Lots,Brooklyn,9,1,83090.0,-366910.0
+East New York-New Lots,Brooklyn,9,2,235408.0,-131502.0
+East New York-New Lots,Brooklyn,9,3,387725.0,256223.0
+East New York-New Lots,Brooklyn,9,4,387725.0,643948.0
+East New York-New Lots,Brooklyn,9,5,387725.0,1031673.0
+East New York-New Lots,Brooklyn,9,6,387725.0,1419398.0
+East New York-New Lots,Brooklyn,9,7,387725.0,1807123.0
+East New York-New Lots,Brooklyn,9,8,387725.0,2194849.0
+East New York-New Lots,Brooklyn,9,9,387725.0,2582574.0
+East New York-New Lots,Brooklyn,9,10,387725.0,2970299.0
+East New York (North),Brooklyn,10,0,-225000.0,-225000.0
+East New York (North),Brooklyn,10,1,41260.0,-183740.0
+East New York (North),Brooklyn,10,2,117206.0,-66534.0
+East New York (North),Brooklyn,10,3,193151.0,126617.0
+East New York (North),Brooklyn,10,4,193151.0,319768.0
+East New York (North),Brooklyn,10,5,193151.0,512920.0
+East New York (North),Brooklyn,10,6,193151.0,706071.0
+East New York (North),Brooklyn,10,7,193151.0,899222.0
+East New York (North),Brooklyn,10,8,193151.0,1092373.0
+East New York (North),Brooklyn,10,9,193151.0,1285524.0
+East New York (North),Brooklyn,10,10,193151.0,1478675.0
+Westchester Square,Bronx,11,0,-150000.0,-150000.0
+Westchester Square,Bronx,11,1,26133.0,-123867.0
+Westchester Square,Bronx,11,2,75732.0,-48135.0
+Westchester Square,Bronx,11,3,125332.0,77197.0
+Westchester Square,Bronx,11,4,125332.0,202529.0
+Westchester Square,Bronx,11,5,125332.0,327860.0
+Westchester Square,Bronx,11,6,125332.0,453192.0
+Westchester Square,Bronx,11,7,125332.0,578524.0
+Westchester Square,Bronx,11,8,125332.0,703856.0
+Westchester Square,Bronx,11,9,125332.0,829188.0
+Westchester Square,Bronx,11,10,125332.0,954519.0
+Pelham Parkway-Van Nest,Bronx,12,0,-150000.0,-150000.0
+Pelham Parkway-Van Nest,Bronx,12,1,25928.0,-124072.0
+Pelham Parkway-Van Nest,Bronx,12,2,75373.0,-48699.0
+Pelham Parkway-Van Nest,Bronx,12,3,124819.0,76120.0
+Pelham Parkway-Van Nest,Bronx,12,4,124819.0,200939.0
+Pelham Parkway-Van Nest,Bronx,12,5,124819.0,325758.0
+Pelham Parkway-Van Nest,Bronx,12,6,124819.0,450577.0
+Pelham Parkway-Van Nest,Bronx,12,7,124819.0,575396.0
+Pelham Parkway-Van Nest,Bronx,12,8,124819.0,700215.0
+Pelham Parkway-Van Nest,Bronx,12,9,124819.0,825034.0
+Pelham Parkway-Van Nest,Bronx,12,10,124819.0,949853.0
+Soundview-Clason Point,Bronx,13,0,-300000.0,-300000.0
+Soundview-Clason Point,Bronx,13,1,50717.0,-249283.0
+Soundview-Clason Point,Bronx,13,2,148755.0,-100529.0
+Soundview-Clason Point,Bronx,13,3,246792.0,146264.0
+Soundview-Clason Point,Bronx,13,4,246792.0,393056.0
+Soundview-Clason Point,Bronx,13,5,246792.0,639848.0
+Soundview-Clason Point,Bronx,13,6,246792.0,886640.0
+Soundview-Clason Point,Bronx,13,7,246792.0,1133432.0
+Soundview-Clason Point,Bronx,13,8,246792.0,1380224.0
+Soundview-Clason Point,Bronx,13,9,246792.0,1627016.0
+Soundview-Clason Point,Bronx,13,10,246792.0,1873809.0
+Brighton Beach,Brooklyn,14,0,-150000.0,-150000.0
+Brighton Beach,Brooklyn,14,1,25328.0,-124672.0
+Brighton Beach,Brooklyn,14,2,74323.0,-50349.0
+Brighton Beach,Brooklyn,14,3,123319.0,72970.0
+Brighton Beach,Brooklyn,14,4,123319.0,196289.0
+Brighton Beach,Brooklyn,14,5,123319.0,319609.0
+Brighton Beach,Brooklyn,14,6,123319.0,442928.0
+Brighton Beach,Brooklyn,14,7,123319.0,566247.0
+Brighton Beach,Brooklyn,14,8,123319.0,689566.0
+Brighton Beach,Brooklyn,14,9,123319.0,812885.0
+Brighton Beach,Brooklyn,14,10,123319.0,936204.0
+Williamsbridge-Olinville,Bronx,15,0,-300000.0,-300000.0
+Williamsbridge-Olinville,Bronx,15,1,49271.0,-250729.0
+Williamsbridge-Olinville,Bronx,15,2,146224.0,-104505.0
+Williamsbridge-Olinville,Bronx,15,3,243177.0,138672.0
+Williamsbridge-Olinville,Bronx,15,4,243177.0,381849.0
+Williamsbridge-Olinville,Bronx,15,5,243177.0,625026.0
+Williamsbridge-Olinville,Bronx,15,6,243177.0,868203.0
+Williamsbridge-Olinville,Bronx,15,7,243177.0,1111380.0
+Williamsbridge-Olinville,Bronx,15,8,243177.0,1354557.0
+Williamsbridge-Olinville,Bronx,15,9,243177.0,1597734.0
+Williamsbridge-Olinville,Bronx,15,10,243177.0,1840911.0

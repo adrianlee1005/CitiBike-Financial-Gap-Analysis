@@ -1,0 +1,16 @@
+expansion_rank,nta_name,borough,demand_score,ridership_scenario,proposed_stations,trips_per_stn_yr,ann_revenue_ss,total_10yr_cost,npv_10yr,breakeven_year,viable
+1,Parkchester,Bronx,0.6699,high,2,15419.0,197662.0,550000,747276.0,3,Yes
+2,Brownsville,Brooklyn,0.621,high,4,14855.0,380864.0,1100000,1409274.0,3,Yes
+3,East Flatbush-Remsen Village,Brooklyn,0.5695,high,2,14261.0,182817.0,550000,659731.0,3,Yes
+4,Soundview-Bruckner-Bronx River,Bronx,0.5537,high,4,14078.0,360943.0,1100000,1291792.0,3,Yes
+5,Allerton,Bronx,0.5393,high,2,13912.0,178343.0,550000,633346.0,3,Yes
+6,Cypress Hills,Brooklyn,0.5309,mid,3,13815.0,265650.0,825000,939019.0,3,Yes
+7,East New York-City Line,Brooklyn,0.5229,mid,4,13723.0,351841.0,1100000,1238115.0,3,Yes
+8,Jamaica,Queens,0.4892,mid,6,13334.0,512802.0,1650000,1768948.0,3,Yes
+9,East New York-New Lots,Brooklyn,0.4777,mid,6,13202.0,507725.0,1650000,1739010.0,3,Yes
+10,East New York (North),Brooklyn,0.4745,mid,3,13165.0,253151.0,825000,865309.0,3,Yes
+11,Westchester Square,Bronx,0.4513,low,2,12897.0,165332.0,550000,556612.0,3,Yes
+12,Pelham Parkway-Van Nest,Bronx,0.4478,low,2,12857.0,164819.0,550000,553588.0,3,Yes
+13,Soundview-Clason Point,Bronx,0.4382,low,4,12746.0,326792.0,1100000,1090393.0,3,Yes
+14,Brighton Beach,Brooklyn,0.4377,low,2,12740.0,163319.0,550000,544743.0,3,Yes
+15,Williamsbridge-Olinville,Bronx,0.426,low,4,12605.0,323177.0,1100000,1069074.0,3,Yes

@@ -1,0 +1,46 @@
+nta_name,borough,scenario,scenario_label,annual_trips,npv_10yr,breakeven_year
+Parkchester,Bronx,low,Conservative (50% of network avg),9614.0,308382.0,4
+Parkchester,Bronx,mid,Base Case (70% of network avg),13459.0,599096.0,3
+Parkchester,Bronx,high,Optimistic (90% of network avg),17304.0,889811.0,2
+Brownsville,Brooklyn,low,Conservative (50% of network avg),9614.0,616765.0,4
+Brownsville,Brooklyn,mid,Base Case (70% of network avg),13459.0,1198193.0,3
+Brownsville,Brooklyn,high,Optimistic (90% of network avg),17304.0,1779621.0,2
+East Flatbush-Remsen Village,Brooklyn,low,Conservative (50% of network avg),9614.0,308382.0,4
+East Flatbush-Remsen Village,Brooklyn,mid,Base Case (70% of network avg),13459.0,599096.0,3
+East Flatbush-Remsen Village,Brooklyn,high,Optimistic (90% of network avg),17304.0,889811.0,2
+Soundview-Bruckner-Bronx River,Bronx,low,Conservative (50% of network avg),9614.0,616765.0,4
+Soundview-Bruckner-Bronx River,Bronx,mid,Base Case (70% of network avg),13459.0,1198193.0,3
+Soundview-Bruckner-Bronx River,Bronx,high,Optimistic (90% of network avg),17304.0,1779621.0,2
+Allerton,Bronx,low,Conservative (50% of network avg),9614.0,308382.0,4
+Allerton,Bronx,mid,Base Case (70% of network avg),13459.0,599096.0,3
+Allerton,Bronx,high,Optimistic (90% of network avg),17304.0,889811.0,2
+Cypress Hills,Brooklyn,low,Conservative (50% of network avg),9614.0,462573.0,4
+Cypress Hills,Brooklyn,mid,Base Case (70% of network avg),13459.0,898645.0,3
+Cypress Hills,Brooklyn,high,Optimistic (90% of network avg),17304.0,1334716.0,2
+East New York-City Line,Brooklyn,low,Conservative (50% of network avg),9614.0,616765.0,4
+East New York-City Line,Brooklyn,mid,Base Case (70% of network avg),13459.0,1198193.0,3
+East New York-City Line,Brooklyn,high,Optimistic (90% of network avg),17304.0,1779621.0,2
+Jamaica,Queens,low,Conservative (50% of network avg),9614.0,925147.0,4
+Jamaica,Queens,mid,Base Case (70% of network avg),13459.0,1797289.0,3
+Jamaica,Queens,high,Optimistic (90% of network avg),17304.0,2669432.0,2
+East New York-New Lots,Brooklyn,low,Conservative (50% of network avg),9614.0,925147.0,4
+East New York-New Lots,Brooklyn,mid,Base Case (70% of network avg),13459.0,1797289.0,3
+East New York-New Lots,Brooklyn,high,Optimistic (90% of network avg),17304.0,2669432.0,2
+East New York (North),Brooklyn,low,Conservative (50% of network avg),9614.0,462573.0,4
+East New York (North),Brooklyn,mid,Base Case (70% of network avg),13459.0,898645.0,3
+East New York (North),Brooklyn,high,Optimistic (90% of network avg),17304.0,1334716.0,2
+Westchester Square,Bronx,low,Conservative (50% of network avg),9614.0,308382.0,4
+Westchester Square,Bronx,mid,Base Case (70% of network avg),13459.0,599096.0,3
+Westchester Square,Bronx,high,Optimistic (90% of network avg),17304.0,889811.0,2
+Pelham Parkway-Van Nest,Bronx,low,Conservative (50% of network avg),9614.0,308382.0,4
+Pelham Parkway-Van Nest,Bronx,mid,Base Case (70% of network avg),13459.0,599096.0,3
+Pelham Parkway-Van Nest,Bronx,high,Optimistic (90% of network avg),17304.0,889811.0,2
+Soundview-Clason Point,Bronx,low,Conservative (50% of network avg),9614.0,616765.0,4
+Soundview-Clason Point,Bronx,mid,Base Case (70% of network avg),13459.0,1198193.0,3
+Soundview-Clason Point,Bronx,high,Optimistic (90% of network avg),17304.0,1779621.0,2
+Brighton Beach,Brooklyn,low,Conservative (50% of network avg),9614.0,308382.0,4
+Brighton Beach,Brooklyn,mid,Base Case (70% of network avg),13459.0,599096.0,3
+Brighton Beach,Brooklyn,high,Optimistic (90% of network avg),17304.0,889811.0,2
+Williamsbridge-Olinville,Bronx,low,Conservative (50% of network avg),9614.0,616765.0,4
+Williamsbridge-Olinville,Bronx,mid,Base Case (70% of network avg),13459.0,1198193.0,3
+Williamsbridge-Olinville,Bronx,high,Optimistic (90% of network avg),17304.0,1779621.0,2

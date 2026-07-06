@@ -1,0 +1,17 @@
+parameter,value,unit
+Install cost per station,75000.0,USD
+Annual OpEx per station,20000.0,USD/yr
+Revenue per trip (member),3.5,USD
+Revenue per trip (casual),5.5,USD
+E-bike surcharge (member),0.19,USD/min
+E-bike surcharge (casual),0.3,USD/min
+E-bike share,0.64,fraction
+New station member mix,0.6,fraction
+Discount rate,0.08,fraction
+Seasonal multiplier,10.9,x
+Network avg trips/stn/yr,19227.0,trips
+Low scenario multiplier,0.5,fraction
+Mid scenario multiplier,0.7,fraction
+High scenario multiplier,0.9,fraction
+Year 1 ramp-up,0.4,fraction
+Year 2 ramp-up,0.7,fraction
