@@ -457,21 +457,9 @@ PROJECT_ROOT = Path('/content/drive/MyDrive/citibike_project')
 
 You may also need a free Census API key for the ACS ingestion step.
 
-### 5. Open the Tableau Workbook
-
-Open the packaged Tableau workbook:
-
-```text
-Tableau CitiBike Gap Analysis(1).twbx
-```
-
-The workbook uses the exported CSV files as its data sources. If file paths change, reconnect the Tableau data sources to the local CSV files in the repository.
-
 ---
 
-## Analytical Skills Demonstrated
-
-This project was designed to showcase applied data science and analytics skills relevant to business analyst, data analyst, data scientist, and strategy analytics roles.
+## Analytical Skills Utilized
 
 ### Data Engineering
 
@@ -522,7 +510,7 @@ This project was designed to showcase applied data science and analytics skills 
 
 ## Limitations
 
-This project is intended as a portfolio-grade analytical model, not an audited infrastructure plan. Key limitations include:
+This project is intended as a portfolio-grade analytical model, not an audited infrastructure plan. Key limitations include but are not limited to:
 
 - **Trip data seasonality:** The financial model annualizes partial historical trip data using a seasonal multiplier.
 - **Station siting:** Proposed station counts are estimated at the neighborhood level and do not account for block-level curb space, permitting, safety, or DOT constraints.
@@ -539,13 +527,9 @@ This project is intended as a portfolio-grade analytical model, not an audited i
 Potential next steps include:
 
 - Replace proxy scoring with a supervised ridership prediction model trained on existing station performance.
-- Add walking-distance buffers instead of straight-line distance buffers.
 - Incorporate subway entrances, bike lanes, schools, parks, and commercial corridors.
 - Include station rebalancing costs and e-bike charging infrastructure costs.
 - Validate projected ridership against historical CitiBike expansion rollouts.
-- Build a sensitivity dashboard for cost, fare, ridership, and discount-rate assumptions.
-- Clean ACS suppressed income values before finalizing the inverse-income score.
-- Add block-level proposed station locations rather than neighborhood-level counts.
 - Use clustering to identify expansion corridors instead of evaluating neighborhoods independently.
 
 ---
@@ -555,13 +539,3 @@ Potential next steps include:
 This project demonstrates how public datasets can be combined into a structured decision-support model for urban mobility planning. By linking geospatial coverage gaps, demographic need, observed bike share behavior, and financial feasibility, the analysis moves beyond descriptive mapping and creates an actionable expansion prioritization framework.
 
 The core recommendation is that CitiBike expansion should prioritize high-transit, high-car-free, uncovered neighborhoods such as Parkchester, Brownsville, East Flatbush-Remsen Village, Soundview-Bruckner-Bronx River, and Allerton, while using financial scenario analysis to phase investments responsibly.
-
----
-
-## Author
-
-**Adrian Lee**  
-Carnegie Mellon University  
-Business Administration + Statistics & Data Science  
-GitHub: [@adrianle](https://github.com/adrianle)  
-Tableau Public: [Adrian Lee](https://public.tableau.com/app/profile/adrian.lee8470)
